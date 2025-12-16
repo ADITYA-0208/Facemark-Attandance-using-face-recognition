@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617715045204",
+    "project_id": "facemarkjiit",
+    "storage_bucket": "facemarkjiit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617715045204:android:18a8a63740ef8d4ff3aec1",
+        "android_client_info": {
+          "package_name": "com.example.facemark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-Cg-C8Cq_N_uofi3pAFJOTq3_yTY2q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

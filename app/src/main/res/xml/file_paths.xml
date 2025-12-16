@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Main app directories -->
+    <external-files-path
+        name="pictures"
+        path="Pictures/" />
+
+    <!-- Specific path for camera photos -->
+    <external-files-path
+        name="documents"
+        path="Documents/" />
+
+    <!-- Cache directories -->
+    <cache-path
+        name="cache_images"
+        path="." />
+
+    <!-- Backup paths for different Android versions and device configurations -->
+    <external-path
+        name="external_storage"
+        path="." />
+    <files-path
+        name="internal_files"
+        path="." />
+    <external-cache-path
+        name="external_cache"
+        path="." />
+</paths>
